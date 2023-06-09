@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    color: #fbba08;
+    margin-top: 56px;
+    font-size: 64px;
+}
+button, p#compChoice{
+    background:  #99c6d1;
+    font-size:  48px;
+    padding: 64px;
+    margin: 24px;
+    border: none;
+    border-radius:  45px;
+}
+p#compChoice{
+    display: none;
+    margin:  24px auto;
+    width: fit-content;
+    padding: 32px;
+    border-radius: 16px;
+}
+p#result{
+    color:  #27524b;
+    margin:  24px auto;
+    font-weight: 700;
+    font-size: 24px;
+
+}
